@@ -1,0 +1,21 @@
+{
+  "name": "medicenter",
+  "version": "1.0.0",
+  "description": "A homepage with a medical theme just to test my HMTL and CSS skills",
+  "main": "index.html",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "react": "^17.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npx live-server src/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brittocx/"
+  },
+  "author": "Brittocx",
+  "license": "ISC"
+}
